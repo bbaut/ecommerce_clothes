@@ -3,6 +3,14 @@
 This application reproduces a clothes shopping web app.
 This is part of my react developer learning road.
 
+## Technologies:
+
+<ul>
+    <li>React-router</li>
+    <li>Scss</li>
+    <li>Firebase</li>
+</ul>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
